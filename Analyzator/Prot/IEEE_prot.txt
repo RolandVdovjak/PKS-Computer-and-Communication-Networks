@@ -1,0 +1,15 @@
+00$Null SAP
+02$LLC Sublayer Management / Individual
+03$LLC Sublayer Management / Group
+06$IP (DoD Internet Protocol)
+0e$PROWAY
+42$BPDU
+4e$MMS EIA-RS 511
+5e$ISI IP
+7e$X.25 PLP
+8e$PROWAY
+aa$SNAP
+e0$IPX
+f4$LAN Management
+fe$ISO Network Layer Protocols
+ff$Global DSAP

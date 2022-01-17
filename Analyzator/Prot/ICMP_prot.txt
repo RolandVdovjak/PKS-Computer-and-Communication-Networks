@@ -1,0 +1,16 @@
+00$Echo Reply
+03$Destination Unreachable
+04$Source Quench
+05$Redirect
+08$Echo Request
+09$Router Advertisement
+10$Router Selection
+11$Time Exceeded
+12$Parameter Problem
+13$Timestamp
+14$Timestamp Eeply
+15$Information Request
+16$Information Eeply
+17$Adress Mask Request
+18$Adress Mask Reply
+30$Traceroute

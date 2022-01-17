@@ -1,0 +1,18 @@
+0200$XEROX PUP
+0201$PUP Addr Trans
+0800$IPv4
+0801$X.75 Internet
+0805$X.25 Level 3
+0806$ARP
+8035$Reverse ARP
+809b$Appletalk
+80f3$AppleTalk AARP
+8100$IEEE 802.1Q VLAN-tagged frames
+8137$Novell IPX
+86dd$IPv6
+880b$PPP
+8847$MPLS
+8848$MPLS with upstream-assigned label
+8863$PPPoE Discovery Stage
+8864$PPPoE Session Stage
+88cc$Link Layer Discovery Protocol (LLDP)
